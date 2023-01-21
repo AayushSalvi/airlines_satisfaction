@@ -9,3 +9,5 @@ K-Nearest Neighbour,
 Stochastic Gradient Classifier,
 Support Vector Machine,
 Random Forest 
+
+![image](https://user-images.githubusercontent.com/65705434/213845989-059be658-5750-47b9-9079-b6700bc19752.png)
