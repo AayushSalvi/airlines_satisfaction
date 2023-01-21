@@ -4,8 +4,8 @@ A simple prediction to tell whether the customer will satisfied with trip or not
 Rondom Forest gives the highest accuracy with 96%.
 
 ## Models Used 
-Logistic Regression 
-K-Nearest Neighbour 
-Stochastic Gradient Classifier 
-Support Vector Machine
+Logistic Regression,
+K-Nearest Neighbour,
+Stochastic Gradient Classifier,
+Support Vector Machine,
 Random Forest 
